@@ -8,7 +8,7 @@ Before contributing, please take a moment to read through the following guidelin
 
 **Ways to Contribute:**
 
-*   **Report Bugs:** If you find a bug, please [open an issue](https://github.com/OpenMind/OM1/issues) on GitHub. Be sure to include:
+*   **Report Bugs:** If you find a bug, please [open an issue](https://github.com/OpenMind/OM1/issues/new) on GitHub. Be sure to include:
     *   A clear and concise description of the bug.
     *   Steps to reproduce the bug.
     *   Your operating system and Python version.
